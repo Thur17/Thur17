@@ -1,5 +1,7 @@
-## Olá sou Arthur Felippe!
-
+<div align="center">
+<h1> Olá sou Arthur Felippe!
+<div align="center">
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Thur17&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue" />
 <div align="center">
   <a href="https://github.com/Thur17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thur17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
