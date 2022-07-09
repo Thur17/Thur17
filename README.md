@@ -4,9 +4,9 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Thur17&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue" />
 <div align="center">
 
-  <a href="https://github.com/Thur17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thur17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thur17&layout=compact&langs_count=7&theme=dracula"/>
+ <a href="https://github.com/Thur17">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thur17&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thur17&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
     
 </div>
   <div align="center">
