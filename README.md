@@ -1,19 +1,20 @@
-
 <div align="center">
 <h1> Olá sou Arthur Felippe!
 </div>
+
 <div align="center">
 <a href = "mailto:arthurthur17@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/arthur-felippe-5843ab21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="center">
-
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Thur17&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue"/>
 </div>
 
-<img src="https://i.postimg.cc/TPBPYf8V/1-L-Qo-AG863l8-Qvqxp-Ny-Biqw.gif" width="80%"/>
 <div align="center">
+<img src="https://i.postimg.cc/TPBPYf8V/1-L-Qo-AG863l8-Qvqxp-Ny-Biqw.gif" width="80%"/>
+</div>
 
 <div align="center">
   <h2> 🖥️ Hard skills </h2>
