@@ -16,6 +16,8 @@
 <div align="center">
 
 <div align="center">
+  <h2> 🖥️ Hard skills </h2>
+<div align="center">
 <div style="display: inline_block">
 <img align="center" alt="thur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="thur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,7 +28,7 @@
 
 
 <div align="center">
-  <h1> ⚙️Analytics </h1>
+  <h2> ⚙️Analytics </h2>
 
   <a href="https://github.com/Thur17">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thur17&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
