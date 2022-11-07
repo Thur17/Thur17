@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img src="https://i.postimg.cc/TPBPYf8V/1-L-Qo-AG863l8-Qvqxp-Ny-Biqw.gif" width="80%"/>
+<img src="https://i.postimg.cc/TPBPYf8V/1-L-Qo-AG863l8-Qvqxp-Ny-Biqw.gif" width="75%"/>
 
 
 <div align="center">
