@@ -5,7 +5,7 @@
 <div align="center">
 <a href = "mailto:arthurthur17@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/arthur-felippe-5843ab21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/arthur-felippe-5843ab21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <a href="https://thur17.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfólio-699?style=for-the-badge&logo=About.me&logoColor=white"> <a href="https://drive.google.com/file/d/1isKKU35YZnqJKj1biFx7DQrXJYjcnJXr/view" target="_blank"><img src="https://img.shields.io/badge/Currículo-blue?style=for-the-badge"> </a>
 </div>
 
 <div align="center">
