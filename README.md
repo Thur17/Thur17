@@ -32,8 +32,6 @@
  
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thur17&theme=github_dark"/>
   <a href="https://github.com/thur17">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thur17&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thur17&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Thur17&theme=dark&hide_border=true&border_radius=4.3&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D&ring=03A1FC&fire=03A1FC&currStreakLabel=FFFCFE" />
+
   </a>
-</div>
+</div
