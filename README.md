@@ -6,7 +6,7 @@
 <a href = "mailto:arthurthur17@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/arthur-felippe-5843ab21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <a href="https://thur17.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfólio-699?style=for-the-badge&logo=About.me&logoColor=white"> <a href="https://drive.google.com/file/d/1isKKU35YZnqJKj1biFx7DQrXJYjcnJXr/view" target="_blank"><img src="https://img.shields.io/badge/Currículo-blue?style=for-the-badge"> </a>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Thur17&color=blue" alt="Profile views"/></p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=Thur17&color=blue" alt="Profile views"/></p>
 </div>
 </div>
 
@@ -23,6 +23,9 @@
 <img align="center" alt="thur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="thur-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img align="center" alt="Thur17-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> </br>
+<div align="center">
+  <a href="https://github.com/Thur17">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thur17&layout=compact&langs_count=7&theme=dark">
 </div>
 
 
@@ -38,9 +41,4 @@
   <a href="https://github.com/thur17">
        <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thur17&theme=github_dark&utcOffset=8"/>
   <a href="https://github.com/thur17">
-
-
-  <a href="https://github.com/Thur17">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Thur17&theme=dark">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thur17&layout=compact&langs_count=7&theme=dark">
 </div>
