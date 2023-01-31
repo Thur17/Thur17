@@ -13,7 +13,6 @@
 <div align="center">
 <img src="https://i.postimg.cc/TPBPYf8V/1-L-Qo-AG863l8-Qvqxp-Ny-Biqw.gif" width="75%"/>
 
-
 <div align="center">
   <h2> 🖥️ Hard skills </h2>
 <div align="center">
@@ -35,5 +34,7 @@
     
   [![GitHub Streak](https://streak-stats.demolab.com?user=thur17&theme=dark&hide_border=true&border_radius=4.3&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=4ADD21&fire=DD2727&currStreakNum=25DD3D&currStreakLabel=DD2727)](https://git.io/streak-stats) 
     
-  </a>
-</div
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thur17&theme=github_dark"/>
+  <a href="https://github.com/thur17">
+       <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thur17&theme=github_dark&utcOffset=8"/>
+  <a href="https://github.com/thur17">
