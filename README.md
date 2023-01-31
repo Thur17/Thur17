@@ -38,3 +38,9 @@
   <a href="https://github.com/thur17">
        <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thur17&theme=github_dark&utcOffset=8"/>
   <a href="https://github.com/thur17">
+
+
+  <a href="https://github.com/Thur17">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Thur17&theme=dark">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thur17&layout=compact&langs_count=7&theme=dark">
+</div>
