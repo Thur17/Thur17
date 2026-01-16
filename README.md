@@ -23,11 +23,6 @@
 <img align="center" alt="thur-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="thur-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 <img align="center" alt="Thur17-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> </br>
-<div align="center">
-  <a href="https://github.com/Thur17">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thur17&layout=compact&langs_count=7&theme=dark">
-</div>
-
 
 <div align="center">
   <h2> ⚙️Analytics </h2>
